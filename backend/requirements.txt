@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+google-generativeai
+groq
+sqlalchemy
+python-dotenv
+PyMuPDF
+pandas
+openpyxl
+python-jose[cryptography]
+passlib[bcrypt]
